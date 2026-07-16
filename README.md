@@ -1,8 +1,8 @@
-# 👨‍💻 Léandre Fouret
+# Léandre Fouret
 
 <div align="center">
   
-**Étudiant en Ingénierie Système & Réseaux | À la recherche d'un stage avril-juillet 2027**
+**Étudiant en Ingénierie Logicielle | À la recherche d'un stage avril-juillet 2027**
   
 [![Email](https://img.shields.io/badge/Email-leandre.fouret@epitech.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandre.fouret@epitech.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrefouret)
@@ -26,8 +26,7 @@ Passionné par **la robotique, les systèmes distribués et les réseaux**, je r
 |---------------|---------------------|-------------------------|
 | ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | | |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC626?style=flat-square&logo=linux&logoColor=black) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | 
 
 </div>
 
@@ -41,18 +40,25 @@ Passionné par **la robotique, les systèmes distribués et les réseaux**, je r
 - Administration système, scripting shell, réseau fondamental
 - Validation d'expertise administration système open source
 
+### 🛡️ CPTS - Certified Penetration Testing Specialist (Hack The Box) (En cours)
+- Certification offensive de haute précision HTB
+- Reconnaissance, scan et enumeration de cibles
+- Exploitation de vulnérabilités (web, réseaux, systèmes)
+- Mouvements latéraux, élévation de privilèges, post-exploitation
+- Rédaction de rapports professionnels de pentest
+
 ---
 
 ## 💼 Expériences Professionnelles
 
-### 🤖 Assistant Epitech en Région (AER) | Epitech Lille
+### Assistant Epitech en Région (AER) | Epitech Lille
 *2026 – Présent*
 - Mentorat pédagogique et technique auprès de **130–150 étudiants** (3 promotions)
 - Accompagnement méthodologique et revue de projets techniques
 - Animation d'ateliers d'entraide et de cohésion
 - Développement de compétences en pédagogie et leadership technique
 
-### 🚀 Stage Développeur Full Stack | Adfinitas, La Madeleine
+### Stage Développeur Full Stack | Adfinitas, La Madeleine
 *Juillet – Décembre 2025*
 - Développement d'interfaces front-end et gestion back-office utilisateurs
 - Intégration de solutions digitales dans un contexte de marketing relationnel
@@ -62,22 +68,22 @@ Passionné par **la robotique, les systèmes distribués et les réseaux**, je r
 
 ## 🏆 Projets Phares
 
-### 🎮 Zappy - Jeu Réseau Multi-Agents
+### Zappy - Jeu Réseau Multi-Agents
 [![GitHub](https://img.shields.io/github/stars/T3a1/Year-End-Projects?style=social)](https://github.com/T3a1/Year-End-Projects/tree/main/[2nd%20year]%20Zappy)
 <br/>
 Développement d'un **jeu réseau client-serveur** où des équipes d'**intelligence artificielle** s'affrontent sur une carte de tiles. Gestion de protocole de communication, synchronisation état distribué, et coordination multi-agents pour collecter ressources et réaliser incantations. **Langage C, programmation réseau TCP/IP**.
 
-### 📡 myTeams - Implémentation Protocole Réseau Client-Serveur
+### myTeams - Implémentation Protocole Réseau Client-Serveur
 [![GitHub](https://img.shields.io/github/stars/T3a1/Network?style=social)](https://github.com/T3a1/Network/tree/main/[2nd%20year]%20myTeams)
 <br/>
 Implémentation complète d'un **protocole réseau personnalisé** avec gestion de connexions, authentification et transmission de données structurées. Architecture **client-serveur en C pur**, sockets TCP, parsing de messages, gestion de concurrents multiples.
 
-### 🌌 RayTracer - Moteur de Rendu Graphique 3D
+### RayTracer - Moteur de Rendu Graphique 3D
 [![GitHub](https://img.shields.io/github/stars/T3a1/Object-Oriented-Programming?style=social)](https://github.com/T3a1/Object-Oriented-Programming/tree/main/[2nd%20year]%20RayTracer)
 <br/>
 Moteur de rendu **lancer de rayons (ray tracing)** implémenté en **C++** avec principes POO. Calculs géométriques et physiques complexes (intersection, réflexion, réfraction), optimisation performance, génération d'images photoréalistes depuis scènes 3D paramétrables.
 
-### 🔄 Octopus - Automatisation Infrastructure avec Ansible
+### Octopus - Automatisation Infrastructure avec Ansible
 [![GitHub](https://img.shields.io/github/stars/T3a1/DevOps?style=social)](https://github.com/T3a1/DevOps/tree/main/[2nd%20year]%20Octopus)
 <br/>
 Automatisation du **déploiement et configuration d'applications** sur machines distantes via **Ansible**. Création de playbooks réutilisables, roles modulaires, templates Jinja2. Infrastructure as Code (IaC), configuration management, déploiement reproductible en une commande.
@@ -93,15 +99,16 @@ Automatisation du **déploiement et configuration d'applications** sur machines 
 - Scripting Bash automatisé
 
 ### DevOps & Infrastructure
-- Conteneurisation Docker et orchestration
+- Conteneurisation Docker
 - Configuration management Ansible (playbooks, roles, inventories)
 - CI/CD Jenkins (pipelines, automatisation builds/tests)
 - Infrastructure as Code principes
 
-### Sécurité & Hack
-- Participation **LeHack** – hackathon annuel de sécurité
-- **Hack The Box** – CTF réguliers (exploitation, forensics, web)
-- Compréhension vulnérabilités réseaux et systèmes
+### Sécurité & Pentesting
+- **CTF réguliers** – Hack The Box, LeHack
+- **Certification CPTS en cours** – Méthodologie de test d'intrusion professionnelle
+- Reconnaissance passive/active, exploitation, post-exploitation
+- Compréhension vulnérabilités réseaux, web et systèmes
 
 ---
 
@@ -117,10 +124,10 @@ Automatisation du **déploiement et configuration d'applications** sur machines 
 
 Je suis particulièrement intéressé par :
 
-- **Robotique & Systèmes Embarqués** – Contrôle temps-réel, capteurs, actionneurs, ROS
+- **Robotique & Systèmes Embarqués** – Contrôle temps-réel, capteurs, actionneurs
 - **Réseaux & Distributed Systems** – Protocoles, haute disponibilité, scaling horizontal
 - **Développement Système C/C++** – Performance, optimisation mémoire, bas-niveau
-- **Infrastructure Cloud & DevOps** – Automation, orchestration, containers
+- **Cybersécurité Offensive** – Pentesting, audit de sécurité, vulnérabilités
 
 N'hésitez pas à me contacter pour discuter de collaborations potentielles ou d'opportunités de stage !
 
