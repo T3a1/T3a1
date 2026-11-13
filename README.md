@@ -13,25 +13,25 @@ logiciel ou en administration systèmes et réseaux. Lille (MEL) ou Paris.
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| [R-Type](https://github.com/T3a1/RType-mirror) | Jeu de tir en réseau jusqu'à 4 joueurs. Serveur multithreadé qui fait autorité, protocole UDP binaire conçu de zéro, synchronisation de l'état entre client et serveur | C++20, Asio, raylib, Conan, Docker |
+| [R-Type](https://github.com/T3a1/RType-mirror) | Jeu de tir en réseau jusqu'à 4 joueurs (3e année, équipe de 4). J'ai posé les bases du client et du serveur, conçu le protocole UDP binaire, la prédiction et l'interpolation, les salles et le lobby | C++20, Asio, raylib, Conan, Docker |
+| [Bernstein](https://github.com/T3a1/devops/tree/main/bernstein) | Déploiement d'une application à 5 composants sur Kubernetes (Azure AKS) : mises à jour sans coupure, autoscaling, NetworkPolicies, secrets hors du dépôt | Kubernetes, Kustomize, Docker, Azure |
+| [Dashboard](https://github.com/T3a1/dashboard) | Tableau de bord web de widgets (météo, crypto, GitHub, NASA…) rafraîchis en arrière-plan, connexion OAuth, 193 tests d'intégration | .NET 10, React, PostgreSQL, Docker Compose |
 | [Zappy](https://github.com/T3a1/zappy) | Simulation multijoueur : un serveur, des IA autonomes et une vue 3D, reliés par un protocole TCP. J'ai coordonné l'équipe de 5 et codé le serveur avec un coéquipier | C, Python, C++ |
-| [Octopus](https://github.com/T3a1/devops/tree/main/octopus) | Déploiement automatisé d'une application à 5 services sur des machines virtuelles, playbooks idempotents, secrets chiffrés | Ansible, Ansible Vault, systemd |
+| [Octopus](https://github.com/T3a1/devops/tree/main/octopus) | La même application que Bernstein, déployée sur des machines virtuelles : playbooks idempotents, secrets chiffrés | Ansible, Ansible Vault, systemd |
 | Drive familial | Stockage auto-hébergé pour ma famille : NAS sur Raspberry Pi, comptes et droits d'accès, accès distant par VPN, sauvegardes automatiques | OpenMediaVault, WireGuard |
 | [myTeams](https://github.com/T3a1/network-programming/tree/main/myteams) | Messagerie d'équipe client-serveur avec son propre protocole et sa persistance | C++, sockets, `poll` |
-| [myFTP](https://github.com/T3a1/network-programming/tree/main/myftp) | Serveur FTP conforme à la RFC 959, multi-clients | C, sockets, `poll` |
 | [Raytracer](https://github.com/T3a1/object-oriented-programming/tree/main/raytracer) | Moteur de rendu par lancer de rayons, formes et lumières en plugins | C++, `dlopen` |
-| [myMarvin](https://github.com/T3a1/devops/tree/main/mymarvin) | Serveur Jenkins entièrement décrit par des fichiers de configuration | Docker, Jenkins, JCasC |
-| [42sh](https://github.com/T3a1/epitech-first-year/tree/main/unix-programming/42sh) | Shell inspiré de `tcsh` : pipes, redirections, alias, globbing, édition de ligne | C |
 
 ## Dépôts
 
 | Dépôt | Contenu |
 |-------|---------|
+| [RType-mirror](https://github.com/T3a1/RType-mirror) | Projet de 3e année |
+| [devops](https://github.com/T3a1/devops) | Bernstein, Octopus, myMarvin, pipeline GitHub Actions |
+| [dashboard](https://github.com/T3a1/dashboard) | Projet de 3e année |
 | [zappy](https://github.com/T3a1/zappy) | Projet de fin de 2e année |
 | [network-programming](https://github.com/T3a1/network-programming) | myFTP, myTeams |
-| [devops](https://github.com/T3a1/devops) | Octopus, myMarvin, pipeline GitHub Actions |
 | [object-oriented-programming](https://github.com/T3a1/object-oriented-programming) | Raytracer, Arcade |
-| [epitech-first-year](https://github.com/T3a1/epitech-first-year) | Projets de 1re année : outils Unix, shells, algorithmes, graphisme |
 | [security-writeups](https://github.com/T3a1/security-writeups) | Write-ups OWASP Juice Shop et exploitation de binaires |
 
 ## Expérience
