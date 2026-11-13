@@ -7,7 +7,7 @@ j'administre mes propres machines sous Linux.
 **Je cherche un stage de 4 mois, d'avril à juillet 2027**, en développement
 logiciel ou en administration systèmes et réseaux. Lille (MEL) ou Paris.
 
-[contact-me.c00pg@passmail.net](mailto:contact-me.c00pg@passmail.net) · [LinkedIn](https://www.linkedin.com/in/leandrefouret)
+**Portfolio : [t3a1.github.io](https://t3a1.github.io)** · [contact-me.c00pg@passmail.net](mailto:contact-me.c00pg@passmail.net) · [LinkedIn](https://www.linkedin.com/in/leandrefouret)
 
 ## Projets
 
